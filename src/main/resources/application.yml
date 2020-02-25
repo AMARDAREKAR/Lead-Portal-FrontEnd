@@ -1,0 +1,14 @@
+spring:
+ datasource:
+  url: jdbc:mysql://localhost:3306/yoanonesolutionsllptest
+  username: root
+  password: amar1234
+ jpa:
+  hibernate:
+   ddl-auto: update
+  show-sql: true
+
+logging.file: C:/Users/AMAR/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE\LeadPortal-SpringBoot/leadportal-logs.log
+
+jwt: 
+ secret: advaik
