@@ -11,4 +11,4 @@ spring:
 logging.file: C:/Users/AMAR/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/LeadPortal-SpringBoot/leadportal-logs.log
 
 jwt: 
- secret: 1ab2c3d4xyz789
+ secret: advaik
