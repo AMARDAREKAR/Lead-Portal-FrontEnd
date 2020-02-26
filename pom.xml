@@ -8,7 +8,7 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.yoan</groupId>
+	<groupId>com.zensar</groupId>
 	<artifactId>LeadPortal-SpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>LeadPortal-SpringBoot</name>

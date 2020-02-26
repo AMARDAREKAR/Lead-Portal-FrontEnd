@@ -1,6 +1,6 @@
 spring:
  datasource:
-  url: jdbc:mysql://localhost:3306/yoanonesolutionsllptest
+  url: jdbc:mysql://localhost:3306/leadportaltest
   username: root
   password: amar1234
  jpa:
@@ -8,7 +8,7 @@ spring:
    ddl-auto: update
   show-sql: true
 
-logging.file: C:/Users/AMAR/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE\LeadPortal-SpringBoot/leadportal-logs.log
+logging.file: C:/Users/AMAR/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/LeadPortal-SpringBoot/leadportal-logs.log
 
 jwt: 
- secret: advaik
+ secret: 1ab2c3d4xyz789
